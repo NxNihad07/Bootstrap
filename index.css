@@ -1,0 +1,35 @@
+/* Navbar background gradient */
+.bg-body-tertiary {
+    background: linear-gradient(90deg, #f9f9f9, #fff);
+    padding: 10px 0;
+}
+
+/* Logo styling */
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #6c757d; /* Customize this color if needed */
+}
+
+/* Navbar link styling */
+.nav-link {
+    font-size: 1rem;
+    color: #333;
+    padding: 0 15px;
+    font-weight: 400;
+}
+
+.nav-link:hover {
+    color: #FE8C45;
+}
+
+/* Get Started button styling */
+.get-started-btn {
+    background-color: #FE8C45;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.get-started-btn:hover {
+    background-color: #f08030; /* Slightly darker shade on hover */
+}
